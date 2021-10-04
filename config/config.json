@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "custom-font-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/customFont/CustomFontApplicationCustomizer.js",
+          "manifest": "./src/extensions/customFont/CustomFontApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CustomFontApplicationCustomizerStrings": "lib/extensions/customFont/loc/{locale}.js"
+  }
+}

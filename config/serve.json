@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://o365devsubs.sharepoint.com/sites/DemoSite1",
+      "customActions": {
+        "ddb7d061-c15a-44f6-b6b5-5c2d8e33a04a": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "customFont": {
+      "pageUrl": "https://o365devsubs.sharepoint.com/sites/DemoSite1",
+      "customActions": {
+        "ddb7d061-c15a-44f6-b6b5-5c2d8e33a04a": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}
