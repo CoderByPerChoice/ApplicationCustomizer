@@ -1,0 +1,119 @@
+
+@font-face {
+  font-family: "GillSans";
+  src: url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-01.eot');
+   src:  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-01.eot') format('embedded-opentype'),
+   /* Super Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-01.woff2') format('woff2'),  
+		/* Pretty Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-01.woff') format('woff'),  
+		/* Safari, Android, iOS */  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-01.ttf') format('truetype'),
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-01.svg#GillSans-01') format('svg');
+	  font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+  font-family: "GillSans-SemiBold";
+  src: url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBold-05.eot');
+   src:  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBold-05.eot') format('embedded-opentype'),
+   /* Super Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBold-05.woff2') format('woff2'),  
+		/* Pretty Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBold-05.woff') format('woff'),  
+		/* Safari, Android, iOS */  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBold-05.ttf') format('truetype'),
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBold-05.svg#GillSans-SemiBold-05') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+  font-family: "GillSans-Light";
+  src: url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-Light-08.eot');
+   src:  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-Light-08.eot') format('embedded-opentype'),
+   /* Super Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-Light-08.woff2') format('woff2'),  
+		/* Pretty Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-Light-08.woff') format('woff'),  
+		/* Safari, Android, iOS */  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-Light-08.ttf') format('truetype'),
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-Light-08.svg#GillSans-Light-08') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+  font-family: "GillSans-SemiBoldItalic";
+  src: url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBoldItalic-06.eot');
+   src:  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBoldItalic-06.eot') format('embedded-opentype'),
+   /* Super Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBoldItalic-06.woff2') format('woff2'),  
+		/* Pretty Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBoldItalic-06.woff') format('woff'),  
+		/* Safari, Android, iOS */  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBoldItalic-06.ttf') format('truetype'),
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-SemiBoldItalic-06.svg#GillSans-SemiBoldItalic-06') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+  font-family: "GillSans-LightItalic";
+  src: url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-LightItalic-09.eot');
+   src:  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-LightItalic-09.eot') format('embedded-opentype'),
+   /* Super Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-LightItalic-09.woff2') format('woff2'),  
+		/* Pretty Modern Browsers */  
+		url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-LightItalic-09.woff') format('woff'),  
+		/* Safari, Android, iOS */  
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-LightItalic-09.ttf') format('truetype'),
+    url('https://o365devsubs.sharepoint.com/sites/DemoSite1/Shared%20Documents/Fonts/GillSans-LightItalic-09.svg#GillSans-LightItalic-09') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+  a {
+    font-family: "GillSans-SemiBoldItalic", Calibri, "Trebuchet MS", sans-serif !important;
+  }
+
+  body {
+    font-family: "GillSans-SemiBoldItalic", Calibri, "Trebuchet MS", sans-serif !important;
+}
+
+div {
+    font-family: "GillSans-SemiBoldItalic", Calibri, "Trebuchet MS", sans-serif !important;
+}
+
+span {
+    font-family: "GillSans-SemiBoldItalic", Calibri, "Trebuchet MS", sans-serif !important;
+}
+
+p {
+    font-family: "GillSans-SemiBoldItalic", Calibri, "Trebuchet MS", sans-serif !important;
+}
+
+/*
+.root-123 {
+    font-family: "GillSans-SemiBoldItalic", Calibri, "Trebuchet MS", sans-serif !important;
+}
+*/
+
+.root-40 {
+    font-family: "GillSans-SemiBoldItalic", Calibri, "Trebuchet MS", sans-serif !important;
+}
+
+[class^="root_"] {
+	font-family: "GillSans-SemiBoldItalic", Calibri, "Trebuchet MS", sans-serif !important;
+}
+
+
+[class^="groupInfo-"] {
+    font-family: "GillSans-SemiBoldItalic", Calibri, "Trebuchet MS", sans-serif !important;
+}
