@@ -27,7 +27,7 @@ export default class CustomFontApplicationCustomizer
   @override
   public onInit(): Promise<void> {
     this.properties.siteurl = this.context.pageContext.site.absoluteUrl;
-    Log.info(LOG_SOURCE, `Initialized ${strings.Title}`);
+    //Log.info(LOG_SOURCE, `Initialized ${strings.Title}`);
 
     const cssUrl: string = this.properties.siteurl + "/Shared%20Documents/Styling/IntranetStyling.css";
     if (cssUrl) {
